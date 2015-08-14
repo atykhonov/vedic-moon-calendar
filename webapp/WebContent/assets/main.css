@@ -1,0 +1,198 @@
+body {
+	background-color: #E8DDCB;
+	color: #031634;
+}
+
+a {
+	color: #036564;
+}
+
+a .VISITED {
+	color: #036564;
+}
+
+table td {
+	padding: 0px 10px 15px 15px;
+}
+
+.small-row td {
+	padding: 0px 0px 0px 0px;
+}
+
+.week-days-row td {
+	padding: 0px 0px 0px 15px;
+}
+
+.current-day {
+	background-color: #CDB380;
+	color: #033649;
+}
+
+.day-title {
+	/* background-color: black; */
+	background-position: left 5px;
+	background-repeat: no-repeat;
+	margin-top: 15px;
+	padding-top: 4px; 
+	margin-bottom: 0px; 
+	padding-bottom: 0px;
+	height: 52px;
+	padding-left: 55px;
+}
+
+.site-title {
+	font-size: 32px;
+	font-weight: bold;	
+	color: #033649;
+}
+
+.site-title .note {
+	font-size: 14px;
+}
+
+.navigation {
+	border-top: 1px solid #033649;
+	border-bottom: 1px solid #033649;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+.navigation .previous {
+	font-family: verdana;
+}
+
+.navigation .current {
+	font-size: 32px;
+	font-weight: bold;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #033649;
+}
+
+.navigation .next {
+	font-family: verdana;
+}
+
+.empty-day-title {
+	color: #C2C2C2;
+}
+
+.moon-phase-1 {
+	background-image: url(images/phases/1.png);
+}
+
+.moon-phase-2 {
+	background-image: url(images/phases/2.png);
+}
+
+.moon-phase-3 {
+	background-image: url(images/phases/3.png);
+}
+
+.moon-phase-4 {
+	background-image: url(images/phases/4.png);
+}
+
+.moon-phase-5 {
+	background-image: url(images/phases/5.png);
+}
+
+.moon-phase-6 {
+	background-image: url(images/phases/6.png);
+}
+
+.moon-phase-7 {
+	background-image: url(images/phases/7.png);
+}
+
+.moon-phase-8 {
+	background-image: url(images/phases/8.png);
+}
+
+.moon-phase-9 {
+	background-image: url(images/phases/9.png);
+}
+
+.moon-phase-10 {
+	background-image: url(images/phases/10.png);
+}
+
+.moon-phase-11 {
+	background-image: url(images/phases/10.png);
+}
+
+.moon-phase-12 {
+	background-image: url(images/phases/11.png);
+}
+
+.moon-phase-13 {
+	background-image: url(images/phases/11.png);
+}
+
+.moon-phase-14 {
+	background-image: url(images/phases/12.png);
+}
+
+.moon-phase-15 {
+	background-image: url(images/phases/13.png);
+}
+
+.moon-phase-16 {
+	background-image: url(images/phases/14.png);
+}
+
+.moon-phase-17 {
+	background-image: url(images/phases/15.png);
+}
+
+.moon-phase-18 {
+	background-image: url(images/phases/16.png);
+}
+
+.moon-phase-19 {
+	background-image: url(images/phases/17.png);
+}
+
+.moon-phase-20 {
+	background-image: url(images/phases/17.png);
+}
+
+.moon-phase-21 {
+	background-image: url(images/phases/18.png);
+}
+
+.moon-phase-22 {
+	background-image: url(images/phases/18.png);
+}
+
+.moon-phase-23 {
+	background-image: url(images/phases/19.png);
+}
+
+.moon-phase-24 {
+	background-image: url(images/phases/20.png);
+}
+
+.moon-phase-25 {
+	background-image: url(images/phases/21.png);
+}
+
+.moon-phase-26 {
+	background-image: url(images/phases/21.png);
+}
+
+.moon-phase-27 {
+	background-image: url(images/phases/22.png);
+}
+
+.moon-phase-28 {
+	background-image: url(images/phases/23.png);
+}
+
+.moon-phase-29 {
+	background-image: url(images/phases/24.png);
+}
+
+.moon-phase-30 {
+	background-image: url(images/phases/24.png);
+}
